@@ -1,0 +1,15 @@
+F:\.Net\Griswold-A3-String-Interpolation\bin\Debug\net6.0\Griswold-A3-String-Interpolation.exe
+F:\.Net\Griswold-A3-String-Interpolation\bin\Debug\net6.0\Griswold-A3-String-Interpolation.deps.json
+F:\.Net\Griswold-A3-String-Interpolation\bin\Debug\net6.0\Griswold-A3-String-Interpolation.runtimeconfig.json
+F:\.Net\Griswold-A3-String-Interpolation\bin\Debug\net6.0\Griswold-A3-String-Interpolation.dll
+F:\.Net\Griswold-A3-String-Interpolation\bin\Debug\net6.0\Griswold-A3-String-Interpolation.pdb
+F:\.Net\Griswold-A3-String-Interpolation\obj\Debug\net6.0\Griswold-A3-String-Interpolation.csproj.AssemblyReference.cache
+F:\.Net\Griswold-A3-String-Interpolation\obj\Debug\net6.0\Griswold-A3-String-Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\Griswold-A3-String-Interpolation\obj\Debug\net6.0\Griswold-A3-String-Interpolation.AssemblyInfoInputs.cache
+F:\.Net\Griswold-A3-String-Interpolation\obj\Debug\net6.0\Griswold-A3-String-Interpolation.AssemblyInfo.cs
+F:\.Net\Griswold-A3-String-Interpolation\obj\Debug\net6.0\Griswold-A3-String-Interpolation.csproj.CoreCompileInputs.cache
+F:\.Net\Griswold-A3-String-Interpolation\obj\Debug\net6.0\Griswold-A3-String-Interpolation.dll
+F:\.Net\Griswold-A3-String-Interpolation\obj\Debug\net6.0\refint\Griswold-A3-String-Interpolation.dll
+F:\.Net\Griswold-A3-String-Interpolation\obj\Debug\net6.0\Griswold-A3-String-Interpolation.pdb
+F:\.Net\Griswold-A3-String-Interpolation\obj\Debug\net6.0\Griswold-A3-String-Interpolation.genruntimeconfig.cache
+F:\.Net\Griswold-A3-String-Interpolation\obj\Debug\net6.0\ref\Griswold-A3-String-Interpolation.dll

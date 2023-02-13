@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Griswold-A3-String-Interpolation/1.0.0": {
+        "runtime": {
+          "Griswold-A3-String-Interpolation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Griswold-A3-String-Interpolation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
